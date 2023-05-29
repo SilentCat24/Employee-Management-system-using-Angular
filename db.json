@@ -12,14 +12,14 @@
       "id": 1
     },
     {
-      "firstName": "ZXa",
-      "lastName": "asdas",
-      "birthDate": "2023-05-26",
+      "firstName": "Arun",
+      "lastName": "Mahi",
+      "birthDate": "2023-05-08",
       "gender": "m",
-      "education": "graduate",
-      "jobExperience": 312,
-      "company": "xdsa",
-      "salary": 123,
+      "education": "10th pass",
+      "jobExperience": 3,
+      "company": "Vlabs.pvt ltd",
+      "salary": 5,
       "id": 2
     }
   ],
